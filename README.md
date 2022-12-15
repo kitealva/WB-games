@@ -1,7 +1,11 @@
-### What is WB Games?
-qwerqwerqwerqwerqwerqwerqwerqqwerqwerqwerqwerqwerqwerqwerqwerqwerqweqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqqwerqwerqwerqwerqwerqwerqwerqwerqwerqweqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqqwerqwerqwerqwerqwerqwerqwerqwerqwerqweqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqqwerqwerqwerqwerqwerqwerqwerqwerqwerqweqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqqwerqwerqwerqwerqwerqwerqwerqwerqwerqweqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqqwerqwerqwerqwerqwerqwerqwerqwerqwerqweqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqwerqqwerqwerqwerqwerqwerqwerqwerqwerqwerqweqwerqwerqwerqwerqwer
+### About WB Games
+WB Games ( Walker & Brady Games ) is a mock studio made to create FPS games!
+This project is intented to store data normally used in FPS such as character usage, avg KDA, headshot percentage and more!
+Account creativity and personalization will be implimented as well as other features to such as reviews/user posts.
+**_MOCK COMPANY AND PROJECT._**
+
 
 # WB Games
 
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Ffe%2F6d%2F9d%2Ffe6d9da9979efe0cca859caa2742a43d.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Funohana-manga-wallpaper-in-2021--911838255775277234%2F&tbnid=pxGKWjRf-qDitM&vet=12ahUKEwjCqM7E6Pr7AhUHCUQIHcLVAZkQMygIegUIARC_AQ..i&docid=wOeCCowqchS90M&w=736&h=736&q=unohana%20manga%20panel&ved=2ahUKEwjCqM7E6Pr7AhUHCUQIHcLVAZkQMygIegUIARC_AQ
+![githubtest2](https://user-images.githubusercontent.com/107230986/207778715-615c4363-1bf4-4f20-a9d2-d3836afba2fd.png)

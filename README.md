@@ -14,6 +14,7 @@ Account creativity and personalization will be implimented as well as other feat
 - [Data](#data-id)
 - [Account Info](#account-id)
 - [Reviews](#review-id)
+- [Feedback](#feedback-id)
 
 
 ## <a name='data-id'></a>Data
@@ -55,3 +56,9 @@ This means new content will always allow users to leave their thoughts and sugge
 `Wooohooo! Isn't that great?! 😲`
 
 **Indeed it is!**
+
+## <a name='feedback-id'></a> Feedback
+
+This project is still in production and feedback & suggestions are welcome!
+
+You can reach us @ 

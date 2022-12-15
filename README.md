@@ -61,4 +61,4 @@ This means new content will always allow users to leave their thoughts and sugge
 
 This project is still in production and feedback & suggestions are welcome!
 
-You can reach us @ 
+<a href="mailto:kite.alva@gmail.com">Mail me!</a>

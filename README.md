@@ -9,3 +9,38 @@ Account creativity and personalization will be implimented as well as other feat
 
 
 ![githubtest2](https://user-images.githubusercontent.com/107230986/207778715-615c4363-1bf4-4f20-a9d2-d3836afba2fd.png)
+
+## Table of Contents
+- [Data](#data-id)
+- [Account Info](#account-id)
+
+
+## <a name='data-id'></a>Data
+> **Small example of Data for each region**
+
+
+
+| NA | Character | Current Mains |
+| ----------- | :-----------: | :-----------: |
+|  | Test 1 | 123,456 |
+|  | Test 2 | 54,321 |
+|  | Test 3 | 10,432 | 
+
+| EU | Character | Current Mains |
+| ----------- | :-----------: | :-----------: |
+|  | Test 1 | 68,675 |
+|  | Test 2 | 32,981 |
+|  | Test 3 | 5,986 |
+
+These tables are an example of just **_SOME_** of the data we would like to record and store on our site
+
+## <a name='account-id'></a> Account Info
+
+For WB Games we wanted to add customization to each users account. Key features we intend to include on launch are : 
+1. Mark a main character you play
+2. Customize PFP 
+3. Change user info at will
+4. Look up your stats
+
+---
+Though it may be small, we intend to add more in the future!

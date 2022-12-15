@@ -6,7 +6,6 @@ Account creativity and personalization will be implimented as well as other feat
 
 **_MOCK COMPANY AND PROJECT_**
 
-test
 
 # WB Games 
 

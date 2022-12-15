@@ -1,3 +1,4 @@
 ### What is WB Games?
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![
+
+(https://img.shields.io/test/v/editor.md.svg)

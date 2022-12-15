@@ -1,3 +1,4 @@
+<a name='top-id'></a>
 ### About WB Games
 WB Games ( Walker & Brady Games ) is a mock studio made to create FPS games!
 This project is intented to store data normally used in FPS such as character usage, avg KDA, headshot percentage and more!
@@ -59,6 +60,9 @@ This means new content will always allow users to leave their thoughts and sugge
 
 ## <a name='feedback-id'></a> Feedback
 
-This project is still in production and feedback & suggestions are welcome!
+This project is still in production _but_ feedback & suggestions are welcome!
 
-<a href="mailto:kite.alva@gmail.com">Mail me!</a>
+<a href="mailto:kite.alva@gmail.com">Brady</a> & <a href="mailto:walkerhebert.dev@gmail.com">Walker</a>
+---
+
+**[Top of Page](#top-id)**

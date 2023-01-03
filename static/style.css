@@ -2,6 +2,27 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    background: linear-gradient(-45deg, #ffffff, #ffc4c4, #fa6c6c, #fd0606);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
+    }
+
+    @keyframes gradient {
+        0% {
+        background-position: 0% 50%;
+        }
+        
+        50% {
+        background-position: 100% 50%;
+        }
+        
+        100% {
+        background-position: 0% 50%;
+        }
+        }
+
 .container-fluid {
     display: flex;
     align-items: center;
@@ -22,4 +43,41 @@
 
 .nav-row {
     justify-content: left;
+}
+
+#search {
+    margin-left: -6%;
+    text-decoration: none;
+    background-color: transparent;
+    color: red;
+}
+
+#search-bar {
+    border-radius: 25px;
+    margin-left: 10%;
+}
+
+#sign-in {
+    border-radius: 25px;
+    margin-right: 1%;
+}
+
+.home-img {
+    object-fit: cover;
+    width: 100%;
+    height: 70vh;
+}
+
+@media (min-width: 992px) {
+    #search{
+     margin-left: -20%;   
+    }
+
+}
+
+@media (max-width: 706px) {
+    #search{
+     margin-left: -16%;   
+    }
+
 }

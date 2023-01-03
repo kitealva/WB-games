@@ -1,0 +1,18 @@
+* {
+    background-color: blue;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(74, 192, 80);
+    height: 7.6vh;
+    font-size: 20px;
+}
+
+.search-bar{
+    display: flex;
+    align-items: center;
+}

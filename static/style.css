@@ -68,6 +68,25 @@ body {
     height: 70vh;
 }
 
+.home-img2 {
+    object-fit: cover;
+    width: 100%;
+    height: 50vh;
+    margin-top: 5%;
+}
+
+.gaming-img {
+    object-fit: cover;
+    width: 40%;
+    height: 50vh;
+    margin-top: 15%;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 @media (min-width: 992px) {
     #search{
      margin-left: -20%;   

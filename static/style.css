@@ -13,7 +13,7 @@
 
 .search-bar{
     display: flex;
-    margin-right: -1;
+    margin-left: 900px;
     padding-left: 100px;
 }
 #search-input{

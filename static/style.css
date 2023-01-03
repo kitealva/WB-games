@@ -68,6 +68,12 @@ body {
     height: 70vh;
 }
 
+.sign-in-page {
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+}
+
 @media (min-width: 992px) {
     #search{
      margin-left: -20%;   

@@ -2,35 +2,21 @@
 
 {% block body %}
 <div class="sign-up">
-<form class="needs-validation" novalidate>
-    <div class="form-row">
-      <div class="col-md-4 mb-3">
-        <label for="validationTooltip01">First name</label>
-        <input type="text" class="form-control" id="validationTooltip01" placeholder="First name" value="Mark" required>
-        <div class="valid-tooltip">
-          Looks good!
-        </div>
-      </div>
-      <div class="col-md-4 mb-3">
-        <label for="validationTooltip02">Last name</label>
-        <input type="text" class="form-control" id="validationTooltip02" placeholder="Last name" value="Otto" required>
-        <div class="valid-tooltip">
-          Looks good!
-        </div>
-      </div>
-      <div class="col-md-4 mb-3">
-        <label for="validationTooltipUsername">Username</label>
-        <div class="input-group">
-          <div class="input-group-prepend">
-            <span class="input-group-text" id="validationTooltipUsernamePrepend">@</span>
+    <form>
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputEmail4">Username</label>
+            <input type="email" class="form-control" id="inputEmail4" placeholder="Username">
           </div>
-          <input type="text" class="form-control" id="validationTooltipUsername" placeholder="Username" aria-describedby="validationTooltipUsernamePrepend" required>
-          <div class="invalid-tooltip">
-            Please choose a unique and valid username.
+          <div class="form-group col-md-6">
+            <label for="inputPassword4">Password</label>
+            <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
           </div>
         </div>
-      </div>
-    </div>
-</form>
+        <div class="sign-create">
+        <button type="submit" class="sign-in-btn">Sign in</button>
+        <a href="/create-account">Create an Account</a>
+        </div>
+      </form>
 </div>
 {% endblock %}

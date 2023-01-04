@@ -49,7 +49,6 @@ body {
 }
 
 #search {
-    margin-left: -6%;
     text-decoration: none;
     background-color: transparent;
     color: red;
@@ -61,8 +60,9 @@ body {
 }
 
 #sign-in {
-    border-radius: 25px;
     margin-right: 1%;
+    border: none;
+    font-size: 25px;
 }
 
 .home-img {
@@ -82,7 +82,24 @@ body {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    background-color: white;
+    width: 800px;
+    height: 660px;
+    margin: 0 auto;
+    margin-top: 10vh;
+    align-items: center;
+}
+
+.sign-create {
+    display: flex;
+    justify-content: space-between;
+}
+
+#nav-home {
+    color: red;
+}
+
+#sign-in{
+margin-right: 20px;
 }
 
 #img1 {
@@ -144,24 +161,15 @@ nav {
     #search{
      margin-left: -20%;   
     }
+
 }
 
 @media (max-width: 706px) {
-    #search{
-     margin-left: -16%;   
+    #search {
+        display: none;
     }
-
-    .margin-top{
-        margin-top: -23%;
-    }
-
-    .titles {
-        color: #ffffff;
-        font-size: 2.5rem;
-        font-weight: 900;
-        margin-top: 5%;
-        margin-left: 5%;
-        text-align: center;
+    #navbar-toggler{
+        border: none;
     }
 
 }

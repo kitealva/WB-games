@@ -46,7 +46,6 @@ body {
 }
 
 #search {
-    margin-left: -6%;
     text-decoration: none;
     background-color: transparent;
     color: red;
@@ -58,8 +57,9 @@ body {
 }
 
 #sign-in {
-    border-radius: 25px;
     margin-right: 1%;
+    border: none;
+    font-size: 25px;
 }
 
 .home-img {
@@ -102,16 +102,31 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
+#nav-home {
+    color: red;
+}
+
+#sign-in{
+margin-right: 20px;
+}
+
 @media (min-width: 992px) {
     #search{
      margin-left: -20%;   
+    }
+    #sign-in{
+        margin-left: 20%;
     }
 
 }
 
 @media (max-width: 706px) {
-    #search{
-     margin-left: -16%;   
+    #search {
+        display: none;
     }
-
+    #navbar-toggler{
+        border: none;
+    }
+    
 }

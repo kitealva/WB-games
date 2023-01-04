@@ -56,15 +56,18 @@ body {
 
 #search-bar {
     border-radius: 25px;
-    margin-left: 10%;
 }
 
 #sign-in {
     margin-right: 1%;
     border: none;
-    font-size: 25px;
+    font-size: 15px;
+    cursor: pointer;
 }
-
+#submit-btn {
+    margin-top: 3vh;
+    margin-left: 40%
+}
 .home-img {
     object-fit: cover;
     width: 100%;
@@ -78,6 +81,10 @@ body {
     margin-top: 3%;
 }
 
+#nav-home {
+    color: red;
+}
+
 .sign-up {
     display: flex;
     flex-direction: column;
@@ -85,21 +92,24 @@ body {
     width: 800px;
     height: 660px;
     margin: 0 auto;
-    margin-top: 10vh;
+    margin-top: 6vh;
     align-items: center;
+    color: white;
 }
 
-.sign-create {
-    display: flex;
-    justify-content: space-between;
-}
-
-#nav-home {
-    color: red;
+#create-account {
+    padding-left: 20px;
 }
 
 #sign-in{
 margin-right: 20px;
+font-size: 35px;
+color: rgb(255, 255, 255);
+background: none;
+}
+
+#right-create{
+    background-color: black;
 }
 
 #img1 {
@@ -108,6 +118,16 @@ margin-right: 20px;
   object-fit: cover;
   transition: .5s ease-in-out;
 }
+
+#right-login {
+    background-color: black;
+    border-radius: 1rem;
+}
+
+#card {
+    background-color: black;
+}
+
 
 .text-center {
     margin-top: 1%;

@@ -2,6 +2,9 @@
 
 {% block body %}
 <div class="sign-up">
+	<a class="navbar-brand" href="/">
+        <img src="../static/images/CHATTO-io-logo-red.png" alt="logo" width="160">
+        </a>
     <form>
         <div class="form-row">
           <div class="form-group col-md-6">
@@ -88,7 +91,8 @@
             <input type="text" class="form-control" id="inputZip">
           </div>
         </div> 
-        <button type="submit" class="btn btn-primary">Create Account</button>
+        <button type="submit" class="btn btn-primary" id="submit-btn">Create Account</button>
+		
       </form>
 </div>
 {% endblock %}

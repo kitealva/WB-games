@@ -87,24 +87,21 @@ body {
     justify-content: center;
 }
 
-/* .form-background{
-    background-color: rgb(255, 255, 255) !important;
-    height: 50vh;
-    width: 40%;
-    justify-content: center;
-    margin: 0 auto;
-    margin-top: 20%;
-} */
-
 .sign-up {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    background-color: white;
+    width: 800px;
+    height: 660px;
+    margin: 0 auto;
+    margin-top: 10vh;
+    align-items: center;
 }
 
-
-
+.sign-create {
+    display: flex;
+    justify-content: space-between;
+}
 @media (min-width: 992px) {
     #search{
      margin-left: -20%;   

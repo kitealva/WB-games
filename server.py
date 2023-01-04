@@ -22,6 +22,12 @@ def sign_in():
     return render_template("signin.html")
 
 
+@app.route('/create-account')
+def create_account():
+    """Create a new account"""
+
+    return render_template("create.html")
+
 
 
 if __name__ == "__main__":

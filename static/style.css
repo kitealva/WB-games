@@ -68,7 +68,6 @@ body {
     height: 70vh;
 }
 
-<<<<<<< HEAD
 .home-img2 {
     object-fit: cover;
     width: 100%;
@@ -86,12 +85,22 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-=======
-.sign-in-page {
-    height: 500px;
-    width: 500px;
-    background-color: blue;
->>>>>>> 4cf9ead929da84439ab99aee45199fe3d07c31ba
+}
+
+/* .form-background{
+    background-color: rgb(255, 255, 255) !important;
+    height: 50vh;
+    width: 40%;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 20%;
+} */
+
+.sign-up {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: white;
 }
 
 @media (min-width: 992px) {

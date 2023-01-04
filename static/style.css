@@ -68,7 +68,6 @@ body {
     height: 70vh;
 }
 
-<<<<<<< HEAD
 .home-img2 {
     object-fit: cover;
     width: 100%;
@@ -86,13 +85,8 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-=======
-.sign-in-page {
-    height: 500px;
-    width: 500px;
-    background-color: blue;
->>>>>>> 4cf9ead929da84439ab99aee45199fe3d07c31ba
 }
+
 
 @media (min-width: 992px) {
     #search{

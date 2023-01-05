@@ -64,6 +64,11 @@ body {
     font-size: 15px;
     cursor: pointer;
 }
+
+#testtest {
+    display: none;
+}
+
 #submit-btn {
     width: 12vw;
     height: 3vh;
@@ -191,7 +196,6 @@ nav {
     z-index: 10 !important;
 }
 
-
 @media (min-width: 992px) {
     * {
         font-family: 'Roboto', sans-serif;
@@ -220,12 +224,12 @@ nav {
     #navbar-toggler{
         border: none;
     }
-
     #sign-in {
         display: none;
-
     }
-
+    #testtest {
+        display: block;
+    }
     .z-index {
         justify-content: center;
         align-items: center;

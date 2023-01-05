@@ -188,6 +188,13 @@ nav {
 
 
 @media (min-width: 992px) {
+    * {
+        font-family: 'Roboto', sans-serif;
+        border: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
     #search{
      margin-left: -20%;   
     }
@@ -195,11 +202,23 @@ nav {
 }
 
 @media (max-width: 706px) {
+    * {
+        font-family: 'Roboto', sans-serif;
+        border: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
     #search {
         display: none;
     }
     #navbar-toggler{
         border: none;
+    }
+
+    #sign-in {
+        display: none;
+
     }
 
 }

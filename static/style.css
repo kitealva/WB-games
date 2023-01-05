@@ -65,8 +65,8 @@ body {
     cursor: pointer;
 }
 #submit-btn {
-    margin-top: 3vh;
-    margin-left: 40%
+    width: 12vw;
+    height: 3vh;
 }
 .home-img {
     object-fit: cover;
@@ -122,12 +122,22 @@ background: none;
 #right-login {
     background-color: black;
     border-radius: 1rem;
+
 }
 
 #card {
     background-color: black;
 }
 
+#chatto-logo {
+    justify-content: center;
+}
+
+.bottom-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
 .text-center {
     margin-top: 1%;

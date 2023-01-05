@@ -64,6 +64,11 @@ body {
     font-size: 15px;
     cursor: pointer;
 }
+
+#testtest {
+    display: none;
+}
+
 #submit-btn {
     width: 12vw;
     height: 3vh;
@@ -110,6 +115,11 @@ background: none;
 
 #right-create{
     background-color: black;
+}
+
+.img-fluid {
+    width: 200%;
+
 }
 
 #img1 {
@@ -186,8 +196,14 @@ nav {
     z-index: 10 !important;
 }
 
-
 @media (min-width: 992px) {
+    * {
+        font-family: 'Roboto', sans-serif;
+        border: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
     #search{
      margin-left: -20%;   
     }
@@ -195,11 +211,30 @@ nav {
 }
 
 @media (max-width: 706px) {
+    * {
+        font-family: 'Roboto', sans-serif;
+        border: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
     #search {
         display: none;
     }
     #navbar-toggler{
         border: none;
+    }
+    #sign-in {
+        display: none;
+    }
+    #testtest {
+        display: block;
+    }
+    .z-index {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        z-index: 5;
     }
 
 }

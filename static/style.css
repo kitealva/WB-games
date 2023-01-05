@@ -112,6 +112,11 @@ background: none;
     background-color: black;
 }
 
+.img-fluid {
+    width: 200%;
+
+}
+
 #img1 {
   width: 100%;
   height: 70vh;

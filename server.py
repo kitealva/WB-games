@@ -15,6 +15,18 @@ def homepage():
     return render_template("home.html")
 
 
+@app.route('/sign-in')
+def sign_in():
+    """Sign into account"""
+    
+    return render_template("signin.html")
+
+
+@app.route('/create-account')
+def create_account():
+    """Create a new account"""
+
+    return render_template("create.html")
 
 
 

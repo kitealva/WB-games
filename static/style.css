@@ -179,12 +179,19 @@ background: none;
     padding-left: 2% 0;
 }
 
+#navbarDropdown{
+    font-size: 20px;
+    padding-right: 50px;
+}
+
+#news-nav{
+    font-size: 20px;
+}
+
 .margin-top {
     margin-top: -5.4%;
 }
-nav {
-    z-index: 10 !important;
-}
+
 
 
 @media (min-width: 992px) {
@@ -212,20 +219,29 @@ nav {
     #search {
         display: none;
     }
+
+    #search-bar{
+        margin-bottom: 50px;
+    }
+
     #navbar-toggler{
         border: none;
     }
 
     #sign-in {
-        display: none;
+        text-align: center;
 
     }
 
     .z-index {
-        justify-content: center;
-        align-items: center;
         text-align: center;
-        z-index: 5;
     }
+
+
+    #news-nav{
+        padding: 0 !important;
+    }
+
+    
 
 }
